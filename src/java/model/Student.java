@@ -12,7 +12,7 @@ public class Student {
     private String code;
     private String name;
     private int carriages;
-
+    private int x;
     public Student() {
     }
 
